@@ -7,7 +7,7 @@ Este projeto realiza **reconhecimento facial** em tempo real utilizando a webcam
 - [DeepFace](https://github.com/serengil/deepface) - Framework para análise facial (reconhecimento, idade, emoção, etc)
 - [OpenCV](https://opencv.org/) - Captura de vídeo e processamento de imagem
 - [pyodbc](https://github.com/mkleehammer/pyodbc) - Conexão com base de dados SQL Server
-- SQL Server - Armazena nomes e caminhos das imagens das pessoas conhecidas
+- [SQL Server](https://www.microsoft.com/en-us/sql-server) - Armazena nomes e caminhos das imagens das pessoas conhecidas
 
 ## 💡 Funcionalidades
 
